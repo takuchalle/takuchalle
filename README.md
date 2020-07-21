@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**takuyaohashi/takuyaohashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+何か代表作があるわけではないですが、細々とやっています。
 
-Here are some ideas to get you started:
+### スキル
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C/C++
+* Dart
+* Flutter
+* Rust(勉強中)
+
+### ブログ
+
+[プログラマになりたい人生](https://blog.takuchalle.dev/)
