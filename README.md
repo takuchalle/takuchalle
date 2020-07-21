@@ -12,3 +12,7 @@
 ### ブログ
 
 [プログラマになりたい人生](https://blog.takuchalle.dev/)
+
+### スポンサー募集中
+
+[Sponsor](https://github.com/sponsors/takuyaohashi)
