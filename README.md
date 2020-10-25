@@ -1,13 +1,10 @@
-### Hi there 👋
+### takuchalle
 
-細々とやっています。
+[![](https://raw.githubusercontent.com/takuchalle/takuchalle/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-### スキル
+[![](https://raw.githubusercontent.com/takuchalle/takuchalle/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-* C/C++
-* Dart
-* Flutter
-* Rust(勉強中)
+[![](https://raw.githubusercontent.com/takuchalle/takuchalle/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### ブログ
 
