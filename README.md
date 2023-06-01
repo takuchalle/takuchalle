@@ -4,10 +4,10 @@
 [![](https://raw.githubusercontent.com/takuchalle/takuchalle/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/takuchalle/takuchalle/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-### ブログ
+### Blog
 
-[プログラマになりたい人生](https://blog.takuchalle.dev/)
+[まだプログラマになりたい人生](https://techlog.takuchalle.dev/) (Japanese)
 
-### スポンサー募集中
+### Sponsoring
 
 [Sponsor](https://github.com/sponsors/takuyaohashi)
